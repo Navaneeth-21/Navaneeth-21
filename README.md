@@ -1,2 +1,2 @@
-# Navaneeth-Gade
-my_personal repo
+### Hi , I'm Navaneeth Gade
+Passionate Backend developer
