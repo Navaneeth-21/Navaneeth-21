@@ -14,3 +14,6 @@ and microservices architecture. Skilled in SQL and NoSQL database management, wi
 clean, maintainable code and optimizing performance. Demonstrates strong problem-solving abilities and works
 independently as a dedicated self-learner. Passionate about continuous learning and applying new technologies
 to improve project outcomes.
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navaneeth-g-3537b122a/)
