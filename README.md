@@ -15,7 +15,7 @@ clean, maintainable code and optimizing performance. Demonstrates strong problem
 independently as a dedicated self-learner. Passionate about continuous learning and applying new technologies
 to improve project outcomes.
 
-### 🌐 Socials :
+### 🌐 Connect with me  :
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navaneeth-g-3537b122a/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](navaneethgade07@gmail.com)
 
 ### 🖥️ Languages and Tools :
