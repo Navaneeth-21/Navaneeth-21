@@ -14,6 +14,7 @@ and microservices architecture. Skilled in SQL and NoSQL database management, wi
 clean, maintainable code and optimizing performance. Demonstrates strong problem-solving abilities and works
 independently as a dedicated self-learner. Passionate about continuous learning and applying new technologies
 to improve project outcomes.
+<br>
 
 ### 🌐 Connect with me  :
 <a href="https://www.linkedin.com/in/navaneeth-g-3537b122a/">
@@ -22,6 +23,7 @@ to improve project outcomes.
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSHxjTTwKWmNClwJfftWGlnfbbfjVvrGNkzJljlxfSkNZNmCnsDZmJxhZVJQKqNWBbjWlqKm">
    <img align="left" alt="Gmail" height="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a>
+<br>
 <br>
 
 ### 🖥️ Languages and Tools :
