@@ -8,10 +8,12 @@
 </p>
 
 
+
+
 ### 👨‍💻 About Me :
 👉 Backend and data-focused developer with experience in **Python, Node.js, SQL, and analytics**, building scalable APIs and data-driven applications.  
 
-👉 I work across the backend stack from **database design and SQL-based analysis to data visualization and dashboards**.
+👉 I work across the backend stack from **database design and SQL-based analysis to data visualization and dashboards**. 
 
 👉 Skilled in **SQL and NoSQL database management**, with a strong focus on writing clean, maintainable code and optimizing performance. A self-driven learner with strong problem-solving abilities, comfortable  working independently and in fast-paced environments.
 
