@@ -2,12 +2,12 @@
   Hi, I'm Navaneeth Gade
 </h1>
 <p align="center">
-🚀 Backend Developer | Node.js · TypeScript · Real-time Systems | Redis · PostgreSQL | Socket.io
+🚀 Backend Developer | Node.js · TypeScript | Redis · PostgreSQL | 
 </p>
 
 ### 👨‍💻 About Me :
 
-👉 Backend developer specialising in **Node.js, TypeScript, and real-time systems**. Built and deployed a horizontally scalable chat API using **Socket.io, Redis pub/sub, and PostgreSQL** — solving cross-server WebSocket message delivery as the core architectural challenge.
+👉 Backend developer specialising in **Node.js, TypeScript**. Built and deployed a horizontally scalable chat API using **Socket.io, Redis pub/sub, and PostgreSQL** — solving cross-server WebSocket message delivery as the core architectural challenge.
 
 👉 Skilled in **REST API design, JWT authentication, WebSocket architecture, and database modelling** with both SQL and NoSQL databases. Strong focus on writing clean, maintainable, typed code using TypeScript.
 
