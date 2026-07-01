@@ -2,18 +2,20 @@
   Hi, I'm Navaneeth Gade
 </h1>
 <p align="center">
-🚀 Backend Developer | Node.js · TypeScript · NestJs | Redis · PostgreSQL | 
+🚀 Backend Developer | ReactJs | Node.js · TypeScript · NestJs | Redis · PostgreSQL | 
 </p>
 
 ### 👨‍💻 About Me :
 
 👉 Backend developer specialising in **Node.js, NestJs, TypeScript**. Built and deployed a horizontally scalable chat API using **Socket.io, Redis pub/sub, and PostgreSQL** — solving cross-server WebSocket message delivery as the core architectural challenge.
 
+👉 Currently expanding into full-stack development, expertised in **React.js** to build end-to-end applications
+
 👉 Skilled in **REST API design, JWT authentication, WebSocket architecture, and database modelling** with both SQL and NoSQL databases. Strong focus on writing clean, maintainable, typed code using TypeScript.
 
 👉 Hands-on experience in backend development through internship on **production-ready systems**, including the integration of an **AI chatbot using NLP**. Actively interested in distributed systems, caching strategies, and emerging backend technologies.
 
-👉 **Published a machine learning research paper** (SCITEPRESS 2026) and a self-driven learner comfortable working independently and in fast-paced environments.
+👉 **Published a machine learning research paper** ([SCITEPRESS 2026](https://www.scitepress.org/Link.aspx?doi=10.5220/0013935800004919)) and a self-driven learner comfortable working independently and in fast-paced environments.
 
 <br>
 
@@ -27,7 +29,6 @@
 </a>
 
 <br>
-<br>
 
 ### 🖥️ Languages and Tools :
 
@@ -35,6 +36,11 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
+
+#### 📄 Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
 
 #### ⚙️ Backend Development
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
@@ -60,6 +66,5 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
-#### 📄 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
+### Top Languages
+[![Navaneeth's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Navaneeth-21&show_icons=true&layout=donut&theme=dark)](https://github.com/Navaneeth-21/github-readme-stats-fast)
